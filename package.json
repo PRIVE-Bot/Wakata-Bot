@@ -1,0 +1,14 @@
+{
+  "name": "wakata-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp WAKATA con menú, administración y descargas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "axios": "^1.6.0",
+    "yt-search": "^2.10.0"
+  }
+}
